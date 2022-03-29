@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm David👋 </h1>
-<h3 align="center">Passionate about technology, software engineering student at <a href="https://www.epn.edu.ec/" target="_BLANK">EPN</a>.</h3>
+<h3 align="center">Passionate about technology, software engineering student at <a href="https://www.epn.edu.ec/" target="_blank">EPN</a>.</h3>
 
 <br>
 
@@ -37,11 +37,11 @@ git config --global user.name "ARTEAGA1811"
 ## Connect with me 🤝
 
 
-[<img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/david-arteaga-a42578214/)
-[<img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E44A58?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/davidarteaga1811/)
-[<img align="center" alt="Facebook" src="https://img.shields.io/badge/Facebook-0E8EF1?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/david.arteaga.37266)
-[<img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-1C99E6?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/davidarteagapk)
-[<img align="center" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-47BF55?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/593995461657)
+[<img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/david-arteaga-a42578214/) 
+[<img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E44A58?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/davidarteaga1811/) 
+[<img align="center" alt="Facebook" src="https://img.shields.io/badge/Facebook-0E8EF1?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/david.arteaga.37266) 
+[<img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-1C99E6?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/davidarteagapk) 
+[<img align="center" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-47BF55?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/593995461657) 
 
 <br>
 <br>
