@@ -8,7 +8,6 @@ git config --global user.name "ARTEAGA1811"
 ```
 
 ## 💻 About Me
----
 - 💡I like to explore and learn new technologies, currently I've been studying and learning about Web development.
 - 🏫 I'm currently studying software engineering at Escuela Politécnica Nacional.
 - 💬 Ask me about anything related to technology, if I don't know about it, we can search it and learn something new. 😌
@@ -19,7 +18,7 @@ git config --global user.name "ARTEAGA1811"
 <br>
 
 ## Tech Toolbox 🔧
----
+
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/> </a>
 <a href="https://isocpp.org/std/the-standard" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=java&logoColor=red" alt="Java"/> </a>
@@ -36,7 +35,7 @@ git config --global user.name "ARTEAGA1811"
 <br>
 
 ## Connect with me 🤝
----
+
 
 [<img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/david-arteaga-a42578214/)
 [<img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E44A58?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/davidarteaga1811/)
@@ -49,9 +48,11 @@ git config --global user.name "ARTEAGA1811"
 <br>
 
 <h3 align="center">Thanks for reading, have a nice day 👌🎉</h3>
-
+    
 ---
 
 <p align="center">
     <img src="https://c.tenor.com/uYP_Nkq8VPsAAAAd/coding-hello-world.gif" width="50%" alt="niceGif">
 </p>
+    
+
