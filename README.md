@@ -14,6 +14,14 @@ git config --global user.name "ARTEAGA1811"
 - 🌱 Now I'm learning React <img width ='14px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">.
 - ⚡ Fun fact: Coding is better with music. 🎧🎸
 
+<br>
+
+## Soft skills 🧩
+- Communication
+- Patience
+- Problem-Solving
+- Teamwork
+- Accountability
 
 <br>
 
@@ -36,7 +44,7 @@ git config --global user.name "ARTEAGA1811"
 
 <br>
 
-## Connect with me 🤝
+## Connect with me 📱
 
 
 [<img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/david-arteaga-a42578214/) 
