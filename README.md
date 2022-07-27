@@ -6,7 +6,7 @@
 ```
 git config --global user.name "ARTEAGA1811"
 ```
-
+![](https://komarev.com/ghpvc/?username=ARTEAGA1811&color=green)
 ## 💻 About Me
 - 💡I like to explore and learn new technologies, currently I've been studying and learning about Web development.
 - 🏫 I'm currently studying software engineering at Escuela Politécnica Nacional.
