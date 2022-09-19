@@ -11,7 +11,7 @@ git config --global user.name "ARTEAGA1811"
 - 💡I like to explore and learn new technologies, currently I've been studying and learning about Web development.
 - 🏫 I'm currently studying software engineering at Escuela Politécnica Nacional.
 - 💬 Ask me about anything related to technology, if I don't know about it, we can search it and learn something new. 😌
-- 🌱 Now I'm learning React <img width ='14px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">.
+- 🌱 Now I'm learning Design Patterns.
 - ⚡ Fun fact: Coding is better with music. 🎧🎸
 
 <br>
