@@ -57,11 +57,4 @@ git config --global user.name "ARTEAGA1811"
 <br>
 
 <h3 align="center">Thanks for reading, have a nice day 👌🎉</h3>
-    
----
-
-<p align="center">
-    <img src="https://c.tenor.com/uYP_Nkq8VPsAAAAd/coding-hello-world.gif" width="50%" alt="niceGif">
-</p>
-    
-
+ 
