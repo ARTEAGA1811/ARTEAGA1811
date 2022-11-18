@@ -8,10 +8,10 @@ git config --global user.name "ARTEAGA1811"
 ```
 ![](https://komarev.com/ghpvc/?username=ARTEAGA1811&color=green)
 ## 💻 About Me
-- 💡I like to explore and learn new technologies, currently I've been studying and learning about Web development.
+- 🧑‍💻Throughout my professional training I have learned to apply methodologies, standards and to use various appropriate tools to create software solutions.
 - 🏫 I'm currently studying software engineering at Escuela Politécnica Nacional.
 - 💬 Ask me about anything related to technology, if I don't know about it, we can search it and learn something new. 😌
-- 🌱 Now I'm learning Design Patterns.
+- 🌱 Now I'm learning Design Patterns and Express Framework.
 - ⚡ Fun fact: Coding is better with music. 🎧🎸
 
 <br>
@@ -30,17 +30,24 @@ git config --global user.name "ARTEAGA1811"
 
 <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/JAVA-f2f2f2?style=for-the-badge&logo=JAVA&logoColor=red" alt="Java"/> </a>
 <a href="https://spring.io/" target="_blank"> <img src="https://img.shields.io/badge/Spring-67AA3C?style=for-the-badge&logo=Spring&logoColor=black" alt="java Spring"/> </a>
+<br>
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
-<a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-6693e6?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> </a>
-<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-EAD41C?style=for-the-badge&logo=JavaScript&logoColor=black" alt="javascript"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white" alt="Django"/> </a>
+<br>
 <a href="https://developer.mozilla.org/es/docs/Glossary/HTML5" target="_blank"> <img src="https://img.shields.io/badge/HTML-E56027?style=for-the-badge&logo=HTML5&logoColor=black" alt="html"/> </a>
 <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img src="https://img.shields.io/badge/CSS-008EC6?style=for-the-badge&logo=CSS3&logoColor=black" alt="css3"/> </a>
-<a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/badge/BOOTSTRAP-7431FA?style=for-the-badge&logo=BOOTSTRAP&logoColor=white" alt="bootstrap"/> </a>
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-EAD41C?style=for-the-badge&logo=JavaScript&logoColor=black" alt="javascript"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript"/> </a>
+<br>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-6693e6?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-003F8C?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/> </a>
+<br>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-F2F2F2?style=for-the-badge&logo=MySQL&logoColor=blue" alt="mysql"/> </a>
-<a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.shields.io/badge/POSTGRESQL-F2F2F2?style=for-the-badge&logo=POSTGRESQL&logoColor=blue" alt="mysql"/> </a>
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.shields.io/badge/POSTGRESQL-F2F2F2?style=for-the-badge&logo=POSTGRESQL&logoColor=blue" alt="postgresql"/> </a>
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.shields.io/badge/SQL_SERVER-white?style=for-the-badge&logo=microsoft-sql-server&logoColor=red" alt="slq-server"/> </a>
+<br>
+<h4>And more...</h4>
 
 <br>
 
