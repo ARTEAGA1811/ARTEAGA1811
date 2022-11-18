@@ -56,7 +56,6 @@ git config --global user.name "ARTEAGA1811"
 
 [<img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/david-arteaga-a42578214/) 
 [<img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E44A58?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/davidarteaga1811/) 
-[<img align="center" alt="Facebook" src="https://img.shields.io/badge/Facebook-0E8EF1?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/david.arteaga.37266) 
 [<img align="center" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-47BF55?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/593995461657) 
 
 <br>
