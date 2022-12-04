@@ -38,6 +38,7 @@ git config --global user.name "ARTEAGA1811"
 <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img src="https://img.shields.io/badge/CSS-008EC6?style=for-the-badge&logo=CSS3&logoColor=black" alt="css3"/> </a>
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-EAD41C?style=for-the-badge&logo=JavaScript&logoColor=black" alt="javascript"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=61DAFB" alt="TypeScript"/> </a>
 <br>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-6693e6?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> </a>
