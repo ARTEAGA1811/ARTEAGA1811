@@ -48,7 +48,6 @@ git config --global user.name "ARTEAGA1811"
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.shields.io/badge/POSTGRESQL-F2F2F2?style=for-the-badge&logo=POSTGRESQL&logoColor=blue" alt="postgresql"/> </a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.shields.io/badge/SQL_SERVER-white?style=for-the-badge&logo=microsoft-sql-server&logoColor=red" alt="slq-server"/> </a>
 <br>
-<h4>And more...</h4>
 
 <br>
 
