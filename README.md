@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm David👋 </h1>
-<h3 align="center">Passionate about technology, software engineering student at <a href="https://www.epn.edu.ec/" target="_blank">EPN</a>.</h3>
+<h3 align="center">Passionate about technology, Software engineer</h3>
 
 <br>
 
