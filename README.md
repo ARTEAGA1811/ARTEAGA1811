@@ -9,9 +9,9 @@ git config --global user.name "ARTEAGA1811"
 ![](https://komarev.com/ghpvc/?username=ARTEAGA1811&color=green)
 ## 💻 About Me
 - 🧑‍💻Throughout my professional training I have learned to apply methodologies, standards and to use various appropriate tools to create software solutions.
-- 🏫 I'm currently studying software engineering at Escuela Politécnica Nacional.
+- 🏫 I'm currently a software engineer from Escuela Politécnica Nacional.
 - 💬 Ask me about anything related to technology, if I don't know about it, we can search it and learn something new. 😌
-- 🌱 Now I'm learning Design Patterns and Express Framework.
+- 🌱 Now I'm learning Design Patterns.
 - ⚡ Fun fact: Coding is better with music. 🎧🎸
 
 <br>
@@ -33,12 +33,14 @@ git config --global user.name "ARTEAGA1811"
 <br>
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white" alt="Django"/> </a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://img.shields.io/badge/FastApi-019486?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastApi"/> </a>
 <br>
 <a href="https://developer.mozilla.org/es/docs/Glossary/HTML5" target="_blank"> <img src="https://img.shields.io/badge/HTML-E56027?style=for-the-badge&logo=HTML5&logoColor=black" alt="html"/> </a>
 <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img src="https://img.shields.io/badge/CSS-008EC6?style=for-the-badge&logo=CSS3&logoColor=black" alt="css3"/> </a>
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-EAD41C?style=for-the-badge&logo=JavaScript&logoColor=black" alt="javascript"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=61DAFB" alt="TypeScript"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=61DAFB" alt="React"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white" alt="Angular"/> </a>
 <br>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-6693e6?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> </a>
